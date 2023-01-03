@@ -1,6 +1,6 @@
 ## ImageDownloader
 
-Download image from url and save to local computer.
+Download tons of images from url and save to local computer.
 
 ### How to Use
 
