@@ -103,7 +103,7 @@ def download_csv_file_images(filename):
 
     logging.info("importing data from %s" % filename)
 
-    dest_dir = "D:\ktp"
+    dest_dir = "D:\images"
 
     #check whether csv file has utf-8 bom char at the beginning
     skip_utf8_seek = 0
